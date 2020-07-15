@@ -8,7 +8,7 @@ Note that the specific **dataloader, data preprocessing and postprocessing** sho
  It is just for **research purpose**, and commercial use is not allowed.
 
 
-$G(n) = \sum_{i=1}^{i=n}F(i,n)$
+https://latex.codecogs.com/gif.latex?\\sum_{i=1}^{i=n}F(i,n)
 
 Citation
 ------- 
